@@ -3,3 +3,5 @@
 /.project
 /org.eclipse.jdt.core.prefs
 /org.eclipse.m2e.core.prefs
+/.apt_generated/
+/.factorypath
